@@ -2,7 +2,7 @@
 Minor Project - Solar Panels
 
 The Solar Panel Marketplace website is designed as a comprehensive platform for buying and selling of solar panels and related equipments.
-My Role - 
+My Role - Frontend using Html and Css
 
 Summer Training Project - School Management System
 
