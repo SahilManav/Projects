@@ -18,8 +18,8 @@ Create account and login to: https://cloudinary.com/
 Copy and paste the Cloud Name, API Key, And Secret Key in the
 backend / .env file
 6. Setup The MongoDB
+
   a. Open this link - LINK
-  
   b. After that Sign Up on the website
   c. Click on New Project Option
   d. After Creating Project go to Database Section & Build a database
@@ -32,6 +32,7 @@ backend / .env file
   k. And Copy the Connection String
   l. And Paste It in the backend / .env file and replace the <password> with
 the password you set previously in 4.F & save changes.
+
 ● In mongodb uri don’t add ” / ” in the end
 7. Setup Stripe ( Optional ) -
   a. create a stripe account from here
