@@ -19,6 +19,7 @@ Copy and paste the Cloud Name, API Key, And Secret Key in the
 backend / .env file
 6. Setup The MongoDB
   a. Open this link - LINK
+  
   b. After that Sign Up on the website
   c. Click on New Project Option
   d. After Creating Project go to Database Section & Build a database
