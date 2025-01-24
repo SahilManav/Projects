@@ -45,7 +45,7 @@ the password you set previously in 4.F & save changes.
   c. Paste the Secret Key in backend / .env file and save file
 9. To Run Backend use npm run server command in Integrated Terminal
      
->>> Before Running Frontend or Admin Projects make sure Backend iS <<<
+>>> Before Running Frontend or Admin Projects make sure Backend is <<<
 
 Running in the background terminal
 ❖ Steps To Run Frontend of The Project
